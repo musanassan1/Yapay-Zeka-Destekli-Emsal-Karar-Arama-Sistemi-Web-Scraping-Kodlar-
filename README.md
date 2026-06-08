@@ -1,0 +1,1 @@
+# Yapay-Zeka-Destekli-Emsal-Karar-Arama-Sistemi-Web-Scraping-Kodlar-
